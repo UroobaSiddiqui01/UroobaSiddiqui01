@@ -1,16 +1,58 @@
-## Hi there 👋
+# <h1 align="center">Hi There, I'm Urooba Siddiqui 👋<h1>
 
-<!--
-**UroobaSiddiqui01/UroobaSiddiqui01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for technology, coding, and continuous learning.
 
-Here are some ideas to get you started:
+## 🙋‍♀️About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Nextjs and exploring new technologies.
+- 💬 Ask me about TypeScript, web development, and any tech-related queries.
+- 📫 How to reach me: [uroobasiddiqui01@gmail.com](mailto:uroobasiddiqui01@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy creating innovative solutions and playing games in my spare time.
+
+## 🛠️skills
+HTML<br>
+CSS<br>
+Typescript<br>
+Node.js<br>
+Next JS <br>
+Tailwind CSS
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uroobasiddiqui01&theme=radical" alt="GitHub Streak"/>
+</div>
+
+## 👥 Views and Followers
+![GitHub followers](https://img.shields.io/github/followers/uroobasiddiqui01?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=uroobasiddiqui01&color=blue)
+
+
+![Urooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=uroobasiddiqui01&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroobasiddiqui01&layout=compact&theme=radical" alt="Top Languages" style="float: right; margin-left: 50px;" />
+
+
+## 🚀 Projects
+
+Here are some of my notable projects:
+
+### Project 1: [Project Name](https://github.com/uroobasiddiqui01/Project-Name)
+
+- *Description:* A brief description of the project.
+- *Technologies:* List of technologies used.
+- *Features:* Highlight key features of the project.
+
+### Project 2: [Another Project](https://github.com/uroobasiddiqui01/Another-Project)
+
+- *Description:* A brief description of the project.
+- *Technologies:* List of technologies used.
+- *Features:* Highlight key features of the project.
+
+##🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/uroobasiddiqui/)
+- [Twitter](https://twitter.com/uroobasiddiqui)
+- [Personal Website](https://uroobasiddiqui.com)
+
+---
+
+Thank you for visiting my profile! Feel free to check out my repositories and contribute to them. Let's connect and grow together!😍
