@@ -1,4 +1,5 @@
 # <h1 align="center">Hi There, I'm Urooba Siddiqui 👋<h1>
+![WhatsApp Image 2024-08-31 at 14 21 11_b9af7001](https://github.com/user-attachments/assets/54fbea31-1c7e-4523-8133-6acb72b0f7d8)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology, coding, and continuous learning.
 
