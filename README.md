@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 - 🌱 I’m currently learning Nextjs and exploring new technologies.
 - 💬 Ask me about TypeScript, web development, and any tech-related queries.
-- 📫 How to reach me: [uroobasiddiqui01@gmail.com](mailto:uroobasiddiqui01@gmail.com)
+- 📫 How to reach me: [urooba.sidd@gmail.com](mailto:urooba.sidd@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy creating innovative solutions and playing games in my spare time.
 
@@ -32,21 +32,7 @@ Tailwind CSS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroobasiddiqui01&layout=compact&theme=radical" alt="Top Languages" style="float: right; margin-left: 50px;" />
 
 
-## 🚀 Projects
 
-Here are some of my notable projects:
-
-### Project 1: [Project Name](https://github.com/uroobasiddiqui01/Project-Name)
-
-- *Description:* A brief description of the project.
-- *Technologies:* List of technologies used.
-- *Features:* Highlight key features of the project.
-
-### Project 2: [Another Project](https://github.com/uroobasiddiqui01/Another-Project)
-
-- *Description:* A brief description of the project.
-- *Technologies:* List of technologies used.
-- *Features:* Highlight key features of the project.
 
 ##🤝 Connect with Me
 
@@ -54,6 +40,6 @@ Here are some of my notable projects:
 - [Twitter](https://twitter.com/uroobasiddiqui)
 - [Personal Website](https://uroobasiddiqui.com)
 
----
+
 
 Thank you for visiting my profile! Feel free to check out my repositories and contribute to them. Let's connect and grow together!😍
